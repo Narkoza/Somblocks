@@ -1,5 +1,5 @@
 # **SOMBLOCKS v.1.0**  
-Adam Koziński (C)2022
+Adam Koziński (C) 2022
 
 ## **GAME CONTROLS**
 
